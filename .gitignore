@@ -1,0 +1,6 @@
+*.o
+*.gch
+libenet.a
+sauer_client
+sauer_server
+
